@@ -1,0 +1,1 @@
+Very simple project with react and redux using typescript. Show a list of todos from https://jsonplaceholder.typicode.com/todos/ and have an action to delete a specific todo in app state
